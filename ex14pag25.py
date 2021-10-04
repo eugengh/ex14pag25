@@ -12,7 +12,7 @@ l = int(input("randuri: "))
 c = l
 
 matrix = [] 
-print("indicati elementele tabloului")   
+print("indicati",l*l, "elemente ce vor fi introduse in tablou")  
 for i in range(l):        
     a =[] 
     for j in range(c):    
